@@ -65,7 +65,7 @@
     "stylefmt": "^5.3.2",
     "stylelint": "^7.10.1",
     "stylelint-config-standard": "^16.0.0",
-    "webpack-dev-server": "1.16.2",
+    "webpack-dev-server": "3.1.11",
     "whatwg-fetch": "2.0.2"
   },
   "scripts": {
