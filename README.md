@@ -1,4 +1,6 @@
-# React Boilerplate
+# React Boilerplate  (deprecated)
+
+## This project is deprecated. Please use [Create React App](https://github.com/facebook/create-react-app) to bootstrap your React projects.
 
 [![Build Status](https://travis-ci.org/digiaonline/react-boilerplate.svg?branch=master)](https://travis-ci.org/nordsoftware/react-boilerplate)
 [![Test Coverage](https://lima.codeclimate.com/github/digiaonline/react-boilerplate/badges/coverage.svg)](https://lima.codeclimate.com/github/digiaonline/react-boilerplate/coverage)
